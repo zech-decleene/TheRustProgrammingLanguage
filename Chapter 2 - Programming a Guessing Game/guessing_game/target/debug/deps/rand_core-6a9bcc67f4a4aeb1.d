@@ -1,0 +1,11 @@
+C:\Users\zechd\Desktop\GithubRepos\TheRustProgrammingLanguage\Chapter 2 - Programming a Guessing Game\guessing_game\target\debug\deps\rand_core-6a9bcc67f4a4aeb1.rmeta: C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\zechd\Desktop\GithubRepos\TheRustProgrammingLanguage\Chapter 2 - Programming a Guessing Game\guessing_game\target\debug\deps\librand_core-6a9bcc67f4a4aeb1.rlib: C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\zechd\Desktop\GithubRepos\TheRustProgrammingLanguage\Chapter 2 - Programming a Guessing Game\guessing_game\target\debug\deps\rand_core-6a9bcc67f4a4aeb1.d: C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs
+
+C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\lib.rs:
+C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\error.rs:
+C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\block.rs:
+C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\impls.rs:
+C:\Users\zechd\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.4.2\src\le.rs:
